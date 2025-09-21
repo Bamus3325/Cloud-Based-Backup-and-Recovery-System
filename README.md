@@ -18,10 +18,7 @@ The Cloud Based Backup and Recovery System is designed to securely back up criti
 - MySQLi  
 
 ### Database
-- MySQL  
-
-### Cloud Storage
-- Cloud storage service (can integrate AWS S3, Google Cloud, or custom storage)  
+- MySQL    
 
 ### Frontend
 - HTML  
